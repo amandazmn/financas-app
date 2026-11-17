@@ -1,0 +1,13 @@
+{
+  "name": "Finanças · painel pessoal",
+  "short_name": "Finanças",
+  "description": "Teto de gastos, meta de patrimônio e projeções com Open Finance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#4f46e5",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
